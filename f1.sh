@@ -1,2 +1,2 @@
 echo "hello - $(date)"
-msg for jenkins
+echo "msg for jenkins"
